@@ -1,7 +1,7 @@
 <!-- Header start from topnotes.tpl -->
 
 {% if developVersion and not suppressDevnote %}
-<div class="devnote"><b>Note</b>: you are viewing the
+<div class="devnote"><b>Note</b>: you are viewing a
 	<!-- <a href="http://webschemas.org/">webschemas.org</a>--> development
 	version of <a href="{{ sitename }}">{{ sitename }}</a>.
   <p><b>This is not an official schema.org drafting or development site.</b></p>
