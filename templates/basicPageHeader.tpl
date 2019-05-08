@@ -5,7 +5,7 @@
 			<div class="wrapper">
 				<div id="sitename">
 				<h1>
-					<a href="/">{{ sitename }}</a>
+					<a href="/">schema.org (Talent Signal drafting site)</a>
 				</h1>
 				</div>
 				<div id="cse-search-form" style="width: 400px;"><div class="gcse-searchbox-only" data-resultsUrl="{{ docsdir }}search_results.html"></div></div>

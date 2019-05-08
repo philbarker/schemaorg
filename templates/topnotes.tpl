@@ -4,8 +4,9 @@
 <div class="devnote"><b>Note</b>: you are viewing the
 	<!-- <a href="http://webschemas.org/">webschemas.org</a>--> development
 	version of <a href="{{ sitename }}">{{ sitename }}</a>.
-	See <a href="{{ docsdir }}howwework.html">How we work</a> for more details.
-</div>
+  <p><b>This is not an official schema.org drafting or development site.</b></p>
+
+  <p>This site is used by the <a href="https://www.w3.org/community/talent-signal/">TalentSignal W3C Community Group</a> to facilitate discussions of proposals being drafted for submission to schema.org.</p></div>
 {% endif %}
 
 {% if sitename != "schema.org" and host_ext != "" and extName != "" and extDD != "" and SUBDOMAINS == True %}
